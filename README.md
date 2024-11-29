@@ -9,6 +9,7 @@ Data Cleaning: Structured and prepared raw data for accurate analysis.
 Pivot Tables & Charts: Explored batting, bowling, and team performance metrics dynamically.
 Interactive Dashboard: Summarized insights with an easy-to-navigate Excel dashboard.
 Conditional Formatting: Highlighted standout performances and patterns.
+
 🛠️ Tools Used
 Microsoft Excel
 Pivot Tables
